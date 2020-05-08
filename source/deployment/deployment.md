@@ -16,7 +16,7 @@ Mattermost supports workplace messaging for teams using one to three servers wit
 ## User Experience
 
 ### PC Web Experience
-
+ 
 End users can securely share messages and files using a web-based Mattermost experience in Chrome, Firefox, Safari, and Edge. Please see [Software and Hardware Requirements](http://docs.mattermost.com/install/requirements.html) documentation for full details.
 
 ### Mobile App Experience
